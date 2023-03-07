@@ -41,7 +41,6 @@ p {
     left: 0;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 15px;
     justify-content: center; /* For centering text inside .photo*/
     align-items: center;
     background: rgba(0, 0, 0, .5);
