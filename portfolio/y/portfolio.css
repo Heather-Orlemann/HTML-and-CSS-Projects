@@ -120,7 +120,7 @@ footer {
 /***** NAVBAR STYLING *****/
 .Navbar {
   overflow: hidden; 
-  background-color: rgb(0, 54, 105); 
+  background-color: rgb(58, 0, 105); 
   position: fixed; 
   top: 0; 
   width: 100%; 
@@ -162,6 +162,33 @@ footer {
       width: 25%; /* This makes each link take up 1/4 of the navbar */
       font-size: 12px;
   }
+}
+/* Default Navbar styles */
+.Navbar {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+/* Mobile devices - Small screens */
+@media screen and (max-width: 480px) {
+    .Navbar {
+        flex-direction: column;
+    }
+}
+
+/* Tablets - Medium screens */
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .Navbar {
+        flex-direction: row;
+    }
+}
+
+/* Desktops - Large screens */
+@media screen and (min-width: 769px) {
+    .Navbar {
+        flex-direction: row;
+    }
 }
 
 /* Navbar hover effects */
@@ -311,3 +338,20 @@ form {
   font-family: "Trebuchet MS", Optima;
 }
 /***** END OF CONTACT FORM STYLING *****/
+
+/* Media Queries */
+
+/* Mobile devices - Small screens */
+@media screen and (max-width: 480px) {
+    /* Add mobile-specific styles here */
+}
+
+/* Tablets - Medium screens */
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    /* Add tablet-specific styles here */
+}
+
+/* Desktops - Large screens */
+@media screen and (min-width: 769px) {
+    /* Add desktop-specific styles here */
+}
