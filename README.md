@@ -1,5 +1,17 @@
 # HTML and CSS Projects
-This is a display of sample websites that I made using HTML and CSS.
+
+Hello there,
+
+This is my repository for the HTML and CSS course I'm taking. Here, I'm submitting all the code and resources for the course assignments. I'm excited to learn more about HTML and CSS and improve my skills as a web developer.
+
+In this repository, you'll find various folders and files containing my code examples, exercises, and projects. I'm following along with the course and practicing what I learn by working through the exercises and building my own projects.
+
+Throughout this course, I'm covering a wide range of topics, including HTML tags and elements, CSS selectors, styling web pages with CSS, responsive design, and more.
+
+I'm looking forward to developing a strong foundation in HTML and CSS and becoming a better web developer. If you have any feedback or suggestions, feel free to reach out to me.
+
+Thanks for checking out my repository!
+
 
 Projects
 - Space Station Site
