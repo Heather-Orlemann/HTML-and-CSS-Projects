@@ -1,4 +1,4 @@
-# HTML and CSS Projects
+# Archived Repository for HTML and CSS Projects
 
 Hello there,
 
